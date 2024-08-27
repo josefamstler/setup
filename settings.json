@@ -1,9 +1,5 @@
 {
   "workbench.colorTheme": "Default Dark Modern",
-  "zig.path": "",
-  "zig.zls.path": "/home/josef/.config/Code/User/globalStorage/ziglang.vscode-zig/zls_install/zls",
-  "zig.initialSetupDone": true,
-  //"files.autoSave": "afterDelay",
   "[jsonc]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
@@ -11,7 +7,6 @@
   "svelte.enable-ts-plugin": true,
   "eslint.runtime": "",
   "editor.codeActionsOnSave": {
-  
     "source.fixAll.eslint": "explicit"
   },
   "editor.formatOnSave": true,
