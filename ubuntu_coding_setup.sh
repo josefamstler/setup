@@ -20,4 +20,8 @@ npm install -g pnpm
 # vscode
 sudo snap install --classic code
 
+until [ -d ~/.config/Code/User ]; do
+  sleep 1
+done
+
 mv settings.json ~/.config/Code/User
